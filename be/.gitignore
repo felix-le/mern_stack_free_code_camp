@@ -3,3 +3,4 @@
 *.log
 *.error
 .DS_Store
+.env
