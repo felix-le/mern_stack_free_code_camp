@@ -30,3 +30,7 @@ sudo npm install -g --force nodemon
 
 1. Create models for schema
 2. create routers files
+
+.env file:
+
+ATLAS_URL=mongodb+srv://codecamp_mern:codecamp_mern@cluster0.uzzqm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
